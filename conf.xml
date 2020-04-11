@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Config>
+    <Addr>ip:port</Addr>
+    <Password>password</Password>
+    <Db>0</Db>
+</Config>
